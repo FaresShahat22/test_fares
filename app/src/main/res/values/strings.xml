@@ -1,9 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">tasc</string>
-    <string name="tilte" translatable="false">fares app</string>
+    <string name="tilte">fares app</string>
     <string name="downioad" translatable="false" tools:ignore="MissingTranslation">fires fares part</string>
     <string name="part2" translatable="false">part2</string>
-    <string name="fares"><![CDATA[fares>>]]></string>
-    <string name="my_name_fares_alshahat">my name fares alshahat</string>
-    <string name="my_age_22">my age= 22</string>
+    <string name="fares" translatable="false"><![CDATA[fares>>]]></string>
+    <string name="my_name_fares_alshahat" translatable="false">my name fares alshahat</string>
+    <string name="my_age_22" translatable="false">my age= 22</string>
 </resources>
