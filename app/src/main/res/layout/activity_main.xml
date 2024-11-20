@@ -65,16 +65,14 @@
             android:layout_height="wrap_content"
             android:text="@string/my_name_fares_alshahat"
             android:textColor="#FA010712"
-            android:textStyle="bold"
-            tools:ignore="HardcodedText" />
+            android:textStyle="bold" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="@string/my_age_22"
             android:textColor="#474008"
-            android:textStyle="bold"
-            tools:ignore="HardcodedText" />
+            android:textStyle="bold" />
     </LinearLayout>
 
     <androidx.constraintlayout.widget.ConstraintLayout
