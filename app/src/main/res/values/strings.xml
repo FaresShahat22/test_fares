@@ -4,4 +4,6 @@
     <string name="downioad" translatable="false" tools:ignore="MissingTranslation">fires fares part</string>
     <string name="part2" translatable="false">part2</string>
     <string name="fares"><![CDATA[fares>>]]></string>
+    <string name="my_name_fares_alshahat">my name fares alshahat</string>
+    <string name="my_age_22">my age= 22</string>
 </resources>
